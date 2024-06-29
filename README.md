@@ -18,7 +18,7 @@ Simon Says is a classic memory game where players must follow a sequence of butt
 
 - Start the game with a key press or touch anywhere on the screen.
 - Randomly generated sequences that increase in length with each level.
-- Visual and audio feedback for button presses.
+- Visual feedback for button presses.
 - Tracks high scores.
 - Responsive design for mobile and desktop play.
 
